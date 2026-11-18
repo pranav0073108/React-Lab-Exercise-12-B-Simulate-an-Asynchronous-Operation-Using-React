@@ -1,6 +1,6 @@
 # React-Lab-Exercise-12-B-Simulate-an-Asynchronous-Operation-Using-React
-## Name : Moulishwar G
-## Register Number : 2305001020
+## Name : Pranav K
+## Register Number : 2305001026
 
 # Aim
 To develop a React application that simulates an asynchronous operation using setTimeout() and displays a loading message while the operation is in progress. 
